@@ -3,7 +3,7 @@
 1. What is TypeScript?
 
    - [ ] A JavaScript runtime environment
-   - [ ] A programming language that compiles to JavaScript
+   - [x] A programming language that compiles to JavaScript
    - [ ] A JavaScript framework
    - [ ] A JavaScript library
 
@@ -11,12 +11,12 @@
 
    - [ ] Google
    - [ ] Facebook
-   - [ ] Microsoft
+   - [x] Microsoft
    - [ ] Mozilla
 
 3. What is the file extension for TypeScript files?
 
-   - [ ] .ts
+   - [x] .ts
    - [ ] .tsx
    - [ ] .typescript
    - [ ] Both .ts and .tsx are correct
@@ -25,12 +25,12 @@
 
    - [ ] A type that can only hold numeric values
    - [ ] A type that represents null values
-   - [ ] A type that can hold values of any type
+   - [x] A type that can hold values of any type
    - [ ] A type that represents undefined values
 
 5. What is type inference in TypeScript?
 
-   - [ ] Manually specifying types for variables
+   - [x] Manually specifying types for variables
    - [ ] The compiler's ability to automatically determine types
    - [ ] Converting one type to another
    - [ ] Checking types at runtime
@@ -38,7 +38,7 @@
 6. Which of the following is the correct way to declare a variable with a specific type?
 
    - [ ] `let name: String = "John"`
-   - [ ] `let name: string = "John"`
+   - [x] `let name: string = "John"`
    - [ ] `let name: TEXT = "John"`
    - [ ] `let @string name = "John"`
 
@@ -51,7 +51,7 @@
 
 8. How do you declare an array of numbers in TypeScript?
 
-   - [ ] `let numbers: number[] = [1, 2, 3]`
+   - [x] `let numbers: number[] = [1, 2, 3]`
    - [ ] `let numbers: Array<number> = [1, 2, 3]`
    - [ ] Both of the above are correct
    - [ ] `let numbers: [number] = [1, 2, 3]`
