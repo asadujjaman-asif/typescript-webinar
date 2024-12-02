@@ -128,7 +128,7 @@
 
 19. How do you make all properties in a type optional?
 
-    - [ ] Using the `Partial<T>` utility type
+    - [x] Using the `Partial<T>` utility type
     - [ ] Using the `Optional<T>` utility type
     - [ ] Adding `?` to each property
     - [ ] Using the `Maybe<T>` utility type
